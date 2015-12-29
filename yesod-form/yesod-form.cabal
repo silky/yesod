@@ -1,5 +1,8 @@
 name:            yesod-form
-version:         1.4.6
+-- NOTE (Noon) I'm updating the minor version here due to my changing in
+-- bootstrap3 rendering to allow the error style of the help-block to be
+-- independently identifiable.
+version:         1.4.7
 license:         MIT
 license-file:    LICENSE
 author:          Michael Snoyman <michael@snoyman.com>
